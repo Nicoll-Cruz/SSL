@@ -1,4 +1,6 @@
-# Nombre
-- Nicoll Alexandra Cruz Villegas
-# Usuario de GitHub 
-- Nicoll-Cruz
+- Nombre
+  
+  Nicoll Alexandra Cruz Villegas
+- Curso
+  
+  k2002
